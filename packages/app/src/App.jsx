@@ -1,5 +1,5 @@
 import "./App.css";
-import Counter from "@workspaces/shared/src/Counter";
+import Counter from "@workspaces/shared/components/Counter";
 
 function App() {
   return <Counter />;
